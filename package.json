@@ -14,7 +14,7 @@
   },
   "author": "okirsenko",
   "license": "ISC",
-  "homepage": "https://okirsenko.github.io/art-project/",
+  "homepage": "https://okirsenko.github.io/art-site/",
   "devDependencies": {
     "browser-sync": "^2.27.10",
     "del": "^6.1.1",
